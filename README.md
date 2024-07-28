@@ -29,8 +29,8 @@ To get started with the project, follow these steps:
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/yourusername/simple-react-signup-form.git
-   cd simple-react-signup-form
+   git clone https://github.com/c-m-a/react-sign-up-form.git
+   cd react-sign-up-form
    ```
 
 2. **Install dependencies**:
